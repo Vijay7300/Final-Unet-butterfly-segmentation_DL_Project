@@ -1,8 +1,8 @@
 # Final-Unet-butterfly-segmentation_DL_Project
 
-# 🦋 Butterfly Image Segmentation using U-Net
+# Butterfly Image Segmentation using U-Net
 
-## 📖 Overview
+## Overview
 
 This project focuses on **image segmentation of butterflies** using a deep learning approach based on the **U-Net architecture**. The goal is to accurately separate the butterfly from the background by predicting pixel-wise masks.
 
@@ -10,7 +10,7 @@ The model is trained on the **Leeds Butterfly Dataset**, where each image has a 
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * Implementation of **U-Net from scratch using TensorFlow/Keras**
 * Custom data loading and preprocessing pipeline
@@ -29,7 +29,7 @@ The model is trained on the **Leeds Butterfly Dataset**, where each image has a 
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 * Dataset: **Leeds Butterfly Dataset**
 * Contains:
@@ -42,7 +42,7 @@ The model is trained on the **Leeds Butterfly Dataset**, where each image has a 
 
 ---
 
-## ⚙️ Methodology
+##  Methodology
 
 ### 1. Data Preprocessing
 
@@ -75,7 +75,7 @@ The model is trained on the **Leeds Butterfly Dataset**, where each image has a 
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 ### Dice Coefficient
 
@@ -95,7 +95,7 @@ Measures intersection over union for segmentation quality.
 
 ---
 
-## 🖼️ Output Visualization
+##  Output Visualization
 
 The model outputs:
 
@@ -106,7 +106,7 @@ The model outputs:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Python
 * TensorFlow / Keras
@@ -117,7 +117,7 @@ The model outputs:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Use Dice Loss or Combined Loss
 * Data augmentation for better generalization
@@ -126,7 +126,7 @@ The model outputs:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repository
 
@@ -149,13 +149,13 @@ python train.py
 
 ---
 
-## 💡 Conclusion
+##  Conclusion
 
 This project demonstrates how U-Net can be effectively used for **semantic segmentation tasks** with high accuracy and fast inference, making it suitable for real-time applications.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Leeds Butterfly Dataset
 * TensorFlow & Keras community
